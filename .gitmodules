@@ -1,0 +1,9 @@
+[submodule "object_detection_edge_impulse_cpp"]
+	path = object_detection_edge_impulse_cpp
+	url = https://github.com/djolodjolo23/object_detection_edge_impulse_cpp
+[submodule "google-coral-micro-object-detection"]
+	path = google-coral-micro-object-detection
+	url = https://github.com/djolodjolo23/google-coral-micro-object-detection
+[submodule "frame-processor"]
+	path = frame-processor
+	url = https://github.com/djolodjolo23/frame-processor
