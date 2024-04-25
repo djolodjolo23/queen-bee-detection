@@ -10,3 +10,6 @@
 [submodule "coralmicro"]
 	path = coralmicro
 	url = https://github.com/djolodjolo23/coralmicro
+[submodule "object_detection_edge_impulse_linux_sdk_python_rpi"]
+	path = object_detection_edge_impulse_linux_sdk_python_rpi
+	url = git@github.com:NormChz/linux_sdk_python_obj_detection.git
