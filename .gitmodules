@@ -7,3 +7,6 @@
 [submodule "frame-processor"]
 	path = frame-processor
 	url = https://github.com/djolodjolo23/frame-processor
+[submodule "coralmicro"]
+	path = coralmicro
+	url = https://github.com/djolodjolo23/coralmicro
